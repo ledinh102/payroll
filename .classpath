@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/ant-antlr.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/antlr-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/antlr-runtime-3.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/antlr4-runtime-4.11.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/antlr4-runtime-4.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/cglib-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/commons-digester-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/hibernate-c3p0-4.3.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/hibernate-commons-annotations-4.0.4.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/hibernate-core-4.3.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/hibernate-ehcache-4.3.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/hibernate-entitymanager-4.3.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/jstl-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/jstl-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org-apache-commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org-netbeans-libs-antlr3-runtime.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org-netbeans-libs-antlr4-runtime.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org-netbeans-modules-j2ee-jpa-refactoring.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org-netbeans-modules-j2ee-jpa-verification.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org-netbeans-modules-languages-antlr.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org-netbeans-modules-lexer-antlr4.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.annotate_1.0.101.v201902121834.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.branding_3.4.1.v201902121834.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.core_3.6.1.v202301061019.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.db_2.2.201.v202301061019.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.db.ui_2.1.201.v201902121834.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.eclipselink.branding_3.4.1.v201902121834.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.eclipselink.core_2.4.101.v201902121834.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.eclipselink.core.ddlgen_2.2.201.v201902121834.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.eclipselink.ui_2.4.101.v202301061019.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.gen_2.3.201.v202301061019.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.jpt.jpa.ui_3.6.1.v202301061019.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.m2e.wtp.jpa_1.6.0.20230118-0812.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.persistence.antlr_3.5.2.v201711011707.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.persistence.antlr-2.7.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.persistence.jpa_2.7.3.v20180807-4be1041.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.persistence.jpa-2.7.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.persistence.jpa.jpql_2.7.3.v20180807-4be1041.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.persistence.jpa.jpql-2.7.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-aop-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-aspects-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-beans-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-context-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-context-support-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-core-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-expression-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-instrument-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-instrument-tomcat-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-jdbc-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-jms-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-messaging-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-orm-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-oxm-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-test-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-tx-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-web-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-webmvc-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-webmvc-portlet-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/spring-websocket-4.3.29.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-api-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-autotag-core-runtime-1.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-compat-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-core-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-el-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-extras-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-freemarker-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-jsp-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-mvel-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-ognl-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-request-api-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-request-freemarker-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-request-jsp-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-request-mustache-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-request-servlet-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-request-servlet-wildcard-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-request-velocity-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-servlet-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-template-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/tiles-velocity-3.0.5.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-api-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-autotag-core-runtime-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-compat-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-core-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-el-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-extras-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-freemarker-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-jsp-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-mvel-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-ognl-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-request-api-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-request-freemarker-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-request-jsp-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-request-mustache-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-request-servlet-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-request-servlet-wildcard-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-request-velocity-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-servlet-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-template-3.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/courses-school/hien-tai/Integration-System-Practice/project/tiles-3.0.5-bin/tiles-3.0.5/tiles-velocity-3.0.5.jar"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
